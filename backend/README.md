@@ -16,3 +16,5 @@ Start backend server:
 python server/websocket_server.py
 
 
+Set openAI API key in environment
+OPENAI_API_KEY
